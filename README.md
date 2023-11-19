@@ -1,8 +1,13 @@
 <h1 align="center">Hi there, I'm Jocelyn Vazquez! 👋</h1>
 <h3 align="center">A passionate Web developer from Texas 👩‍💻</h3>
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/06/e0/90/06e090adf739019d15f65e0d7d6aa055.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vazquezjocelyn&label=Profile%20views&color=0e75b6&style=flat" alt="vazquezjocelyn" /> </p>
 
+
+- 🎓 Currently studying Information Systems at UTA.
+- 🤝 Passionate about collaboration and community impact.
 - 📬 Reach out at **jocelync.vazquez@protonmail.com**
 
 <h3 align="left">Connect with me:</h3>
