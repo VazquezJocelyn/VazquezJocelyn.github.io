@@ -1,6 +1,3 @@
-
-
-
 <h1 align="center">Hi there, I'm Jocelyn Vazquez! 👋</h1>
 <h3 align="center">A passionate Web developer from Texas 👩‍💻</h3>
 
